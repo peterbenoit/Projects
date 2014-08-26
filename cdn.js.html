@@ -1,0 +1,21 @@
+<a href="http://cdnjs.com/packages.json">http://cdnjs.com/packages.json</a>
+
+<ul id="output"></ul>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+<script>
+	var s = "";
+	$.ajax({
+		url: 'cdnjs.packages.json',
+		dataType: 'json',
+		success: function (data) {
+			//console.log(data.packages.filename);
+			$.each(data.packages, function (e, item) {
+				s += '<li>' + item.name + ': ' + item.version + '</li>';
+			});
+
+			$('#output').append(s);
+		}
+	});
+</script>

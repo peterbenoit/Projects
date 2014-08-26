@@ -1,0 +1,1886 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<statuses>
+		<metadata>
+			<result_type>recent</result_type>
+			<iso_language_code>en</iso_language_code>
+		</metadata>
+		<created_at>Sun Aug 17 20:59:39 +0000 2014</created_at>
+		<id>501111133722656800</id>
+		<id_str>501111133722656768</id_str>
+		<text>#CDCintheField Dr Ben: 24 hrs into journey to Nigeria. Boarding pass in hand for flight to Lagos to respond to #Ebola http://t.co/UlfsR72Deb</text>
+		<source>&lt;a href=&quot;http://twitter.com&quot; rel=&quot;nofollow&quot;&gt;Twitter Web Client&lt;/a&gt;</source>
+		<truncated>false</truncated>
+		<in_reply_to_status_id />
+		<in_reply_to_status_id_str />
+		<in_reply_to_user_id />
+		<in_reply_to_user_id_str />
+		<in_reply_to_screen_name />
+		<user>
+			<id>146569971</id>
+			<id_str>146569971</id_str>
+			<name>CDC</name>
+			<screen_name>CDCgov</screen_name>
+			<location>Atlanta, GA</location>
+			<description>CDC's official Twitter source for daily credible health &amp; safety updates f/ Centers for Disease Control &amp; Prevention. Privacy policy http://t.co/nTOTJDCRyO</description>
+			<url>http://t.co/5a7cTu2vly</url>
+			<entities>
+				<url>
+					<urls>
+						<url>http://t.co/5a7cTu2vly</url>
+						<expanded_url>http://www.cdc.gov</expanded_url>
+						<display_url>cdc.gov</display_url>
+						<indices>0</indices>
+						<indices>22</indices>
+					</urls>
+				</url>
+				<description>
+					<urls>
+						<url>http://t.co/nTOTJDCRyO</url>
+						<expanded_url>http://go.usa.gov/8Ea</expanded_url>
+						<display_url>go.usa.gov/8Ea</display_url>
+						<indices>133</indices>
+						<indices>155</indices>
+					</urls>
+				</description>
+			</entities>
+			<protected>false</protected>
+			<followers_count>344925</followers_count>
+			<friends_count>240</friends_count>
+			<listed_count>6340</listed_count>
+			<created_at>Fri May 21 19:40:40 +0000 2010</created_at>
+			<favourites_count>55</favourites_count>
+			<utc_offset>-14400</utc_offset>
+			<time_zone>Eastern Time (US &amp; Canada)</time_zone>
+			<geo_enabled>false</geo_enabled>
+			<verified>true</verified>
+			<statuses_count>10094</statuses_count>
+			<lang>en</lang>
+			<contributors_enabled>false</contributors_enabled>
+			<is_translator>false</is_translator>
+			<is_translation_enabled>false</is_translation_enabled>
+			<profile_background_color>C0DEED</profile_background_color>
+			<profile_background_image_url>http://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url>
+			<profile_background_image_url_https>https://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url_https>
+			<profile_background_tile>false</profile_background_tile>
+			<profile_image_url>http://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url>
+			<profile_image_url_https>https://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url_https>
+			<profile_banner_url>https://pbs.twimg.com/profile_banners/146569971/1398280755</profile_banner_url>
+			<profile_link_color>0084B4</profile_link_color>
+			<profile_sidebar_border_color>FFFFFF</profile_sidebar_border_color>
+			<profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+			<profile_text_color>333333</profile_text_color>
+			<profile_use_background_image>true</profile_use_background_image>
+			<default_profile>false</default_profile>
+			<default_profile_image>false</default_profile_image>
+			<following />
+			<follow_request_sent />
+			<notifications />
+		</user>
+		<geo />
+		<coordinates />
+		<place />
+		<contributors />
+		<retweet_count>56</retweet_count>
+		<favorite_count>45</favorite_count>
+		<entities>
+			<hashtags>
+				<text>CDCintheField</text>
+				<indices>0</indices>
+				<indices>14</indices>
+			</hashtags>
+			<hashtags>
+				<text>Ebola</text>
+				<indices>111</indices>
+				<indices>117</indices>
+			</hashtags>
+			<media>
+				<id>501111132325552100</id>
+				<id_str>501111132325552129</id_str>
+				<indices>118</indices>
+				<indices>140</indices>
+				<media_url>http://pbs.twimg.com/media/BvRN63tCIAENQpl.jpg</media_url>
+				<media_url_https>https://pbs.twimg.com/media/BvRN63tCIAENQpl.jpg</media_url_https>
+				<url>http://t.co/UlfsR72Deb</url>
+				<display_url>pic.twitter.com/UlfsR72Deb</display_url>
+				<expanded_url>http://twitter.com/CDCgov/status/501111133722656768/photo/1</expanded_url>
+				<type>photo</type>
+				<sizes>
+					<medium>
+						<w>600</w>
+						<h>600</h>
+						<resize>fit</resize>
+					</medium>
+					<thumb>
+						<w>150</w>
+						<h>150</h>
+						<resize>crop</resize>
+					</thumb>
+					<large>
+						<w>1024</w>
+						<h>1024</h>
+						<resize>fit</resize>
+					</large>
+					<small>
+						<w>340</w>
+						<h>340</h>
+						<resize>fit</resize>
+					</small>
+				</sizes>
+			</media>
+		</entities>
+		<favorited>false</favorited>
+		<retweeted>false</retweeted>
+		<possibly_sensitive>false</possibly_sensitive>
+		<lang>en</lang>
+	</statuses>
+	<statuses>
+		<metadata>
+			<result_type>recent</result_type>
+			<iso_language_code>en</iso_language_code>
+		</metadata>
+		<created_at>Sun Aug 17 19:20:51 +0000 2014</created_at>
+		<id>501086271255892000</id>
+		<id_str>501086271255891968</id_str>
+		<text>#CDCintheField Learn more about Leisha’s experience as a disease detective: http://t.co/0tQMI8C3Rp</text>
+		<source>&lt;a href=&quot;http://twitter.com/download/iphone&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;</source>
+		<truncated>false</truncated>
+		<in_reply_to_status_id />
+		<in_reply_to_status_id_str />
+		<in_reply_to_user_id />
+		<in_reply_to_user_id_str />
+		<in_reply_to_screen_name />
+		<user>
+			<id>146569971</id>
+			<id_str>146569971</id_str>
+			<name>CDC</name>
+			<screen_name>CDCgov</screen_name>
+			<location>Atlanta, GA</location>
+			<description>CDC's official Twitter source for daily credible health &amp; safety updates f/ Centers for Disease Control &amp; Prevention. Privacy policy http://t.co/nTOTJDCRyO</description>
+			<url>http://t.co/5a7cTu2vly</url>
+			<entities>
+				<url>
+					<urls>
+						<url>http://t.co/5a7cTu2vly</url>
+						<expanded_url>http://www.cdc.gov</expanded_url>
+						<display_url>cdc.gov</display_url>
+						<indices>0</indices>
+						<indices>22</indices>
+					</urls>
+				</url>
+				<description>
+					<urls>
+						<url>http://t.co/nTOTJDCRyO</url>
+						<expanded_url>http://go.usa.gov/8Ea</expanded_url>
+						<display_url>go.usa.gov/8Ea</display_url>
+						<indices>133</indices>
+						<indices>155</indices>
+					</urls>
+				</description>
+			</entities>
+			<protected>false</protected>
+			<followers_count>344925</followers_count>
+			<friends_count>240</friends_count>
+			<listed_count>6340</listed_count>
+			<created_at>Fri May 21 19:40:40 +0000 2010</created_at>
+			<favourites_count>55</favourites_count>
+			<utc_offset>-14400</utc_offset>
+			<time_zone>Eastern Time (US &amp; Canada)</time_zone>
+			<geo_enabled>false</geo_enabled>
+			<verified>true</verified>
+			<statuses_count>10094</statuses_count>
+			<lang>en</lang>
+			<contributors_enabled>false</contributors_enabled>
+			<is_translator>false</is_translator>
+			<is_translation_enabled>false</is_translation_enabled>
+			<profile_background_color>C0DEED</profile_background_color>
+			<profile_background_image_url>http://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url>
+			<profile_background_image_url_https>https://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url_https>
+			<profile_background_tile>false</profile_background_tile>
+			<profile_image_url>http://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url>
+			<profile_image_url_https>https://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url_https>
+			<profile_banner_url>https://pbs.twimg.com/profile_banners/146569971/1398280755</profile_banner_url>
+			<profile_link_color>0084B4</profile_link_color>
+			<profile_sidebar_border_color>FFFFFF</profile_sidebar_border_color>
+			<profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+			<profile_text_color>333333</profile_text_color>
+			<profile_use_background_image>true</profile_use_background_image>
+			<default_profile>false</default_profile>
+			<default_profile_image>false</default_profile_image>
+			<following />
+			<follow_request_sent />
+			<notifications />
+		</user>
+		<geo />
+		<coordinates />
+		<place />
+		<contributors />
+		<retweet_count>11</retweet_count>
+		<favorite_count>8</favorite_count>
+		<entities>
+			<hashtags>
+				<text>CDCintheField</text>
+				<indices>0</indices>
+				<indices>14</indices>
+			</hashtags>
+			<urls>
+				<url>http://t.co/0tQMI8C3Rp</url>
+				<expanded_url>http://go.usa.gov/EXdG</expanded_url>
+				<display_url>go.usa.gov/EXdG</display_url>
+				<indices>76</indices>
+				<indices>98</indices>
+			</urls>
+		</entities>
+		<favorited>false</favorited>
+		<retweeted>false</retweeted>
+		<possibly_sensitive>false</possibly_sensitive>
+		<lang>en</lang>
+	</statuses>
+	<statuses>
+		<metadata>
+			<result_type>recent</result_type>
+			<iso_language_code>en</iso_language_code>
+		</metadata>
+		<created_at>Sun Aug 17 19:20:08 +0000 2014</created_at>
+		<id>501086092909895700</id>
+		<id_str>501086092909895682</id_str>
+		<text>#CDCintheField from Leisha: Training staff to enter data to help get #Ebola under control http://t.co/zyPTBuYHbh</text>
+		<source>&lt;a href=&quot;http://twitter.com/download/iphone&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;</source>
+		<truncated>false</truncated>
+		<in_reply_to_status_id />
+		<in_reply_to_status_id_str />
+		<in_reply_to_user_id />
+		<in_reply_to_user_id_str />
+		<in_reply_to_screen_name />
+		<user>
+			<id>146569971</id>
+			<id_str>146569971</id_str>
+			<name>CDC</name>
+			<screen_name>CDCgov</screen_name>
+			<location>Atlanta, GA</location>
+			<description>CDC's official Twitter source for daily credible health &amp; safety updates f/ Centers for Disease Control &amp; Prevention. Privacy policy http://t.co/nTOTJDCRyO</description>
+			<url>http://t.co/5a7cTu2vly</url>
+			<entities>
+				<url>
+					<urls>
+						<url>http://t.co/5a7cTu2vly</url>
+						<expanded_url>http://www.cdc.gov</expanded_url>
+						<display_url>cdc.gov</display_url>
+						<indices>0</indices>
+						<indices>22</indices>
+					</urls>
+				</url>
+				<description>
+					<urls>
+						<url>http://t.co/nTOTJDCRyO</url>
+						<expanded_url>http://go.usa.gov/8Ea</expanded_url>
+						<display_url>go.usa.gov/8Ea</display_url>
+						<indices>133</indices>
+						<indices>155</indices>
+					</urls>
+				</description>
+			</entities>
+			<protected>false</protected>
+			<followers_count>344925</followers_count>
+			<friends_count>240</friends_count>
+			<listed_count>6340</listed_count>
+			<created_at>Fri May 21 19:40:40 +0000 2010</created_at>
+			<favourites_count>55</favourites_count>
+			<utc_offset>-14400</utc_offset>
+			<time_zone>Eastern Time (US &amp; Canada)</time_zone>
+			<geo_enabled>false</geo_enabled>
+			<verified>true</verified>
+			<statuses_count>10094</statuses_count>
+			<lang>en</lang>
+			<contributors_enabled>false</contributors_enabled>
+			<is_translator>false</is_translator>
+			<is_translation_enabled>false</is_translation_enabled>
+			<profile_background_color>C0DEED</profile_background_color>
+			<profile_background_image_url>http://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url>
+			<profile_background_image_url_https>https://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url_https>
+			<profile_background_tile>false</profile_background_tile>
+			<profile_image_url>http://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url>
+			<profile_image_url_https>https://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url_https>
+			<profile_banner_url>https://pbs.twimg.com/profile_banners/146569971/1398280755</profile_banner_url>
+			<profile_link_color>0084B4</profile_link_color>
+			<profile_sidebar_border_color>FFFFFF</profile_sidebar_border_color>
+			<profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+			<profile_text_color>333333</profile_text_color>
+			<profile_use_background_image>true</profile_use_background_image>
+			<default_profile>false</default_profile>
+			<default_profile_image>false</default_profile_image>
+			<following />
+			<follow_request_sent />
+			<notifications />
+		</user>
+		<geo />
+		<coordinates />
+		<place />
+		<contributors />
+		<retweet_count>22</retweet_count>
+		<favorite_count>19</favorite_count>
+		<entities>
+			<hashtags>
+				<text>CDCintheField</text>
+				<indices>0</indices>
+				<indices>14</indices>
+			</hashtags>
+			<hashtags>
+				<text>Ebola</text>
+				<indices>69</indices>
+				<indices>75</indices>
+			</hashtags>
+			<media>
+				<id>501086091454083100</id>
+				<id_str>501086091454083074</id_str>
+				<indices>90</indices>
+				<indices>112</indices>
+				<media_url>http://pbs.twimg.com/media/BvQ3JTMCcAIhspQ.jpg</media_url>
+				<media_url_https>https://pbs.twimg.com/media/BvQ3JTMCcAIhspQ.jpg</media_url_https>
+				<url>http://t.co/zyPTBuYHbh</url>
+				<display_url>pic.twitter.com/zyPTBuYHbh</display_url>
+				<expanded_url>http://twitter.com/CDCgov/status/501086092909895682/photo/1</expanded_url>
+				<type>photo</type>
+				<sizes>
+					<medium>
+						<w>600</w>
+						<h>450</h>
+						<resize>fit</resize>
+					</medium>
+					<large>
+						<w>1024</w>
+						<h>768</h>
+						<resize>fit</resize>
+					</large>
+					<thumb>
+						<w>150</w>
+						<h>150</h>
+						<resize>crop</resize>
+					</thumb>
+					<small>
+						<w>340</w>
+						<h>255</h>
+						<resize>fit</resize>
+					</small>
+				</sizes>
+			</media>
+		</entities>
+		<favorited>false</favorited>
+		<retweeted>false</retweeted>
+		<possibly_sensitive>false</possibly_sensitive>
+		<lang>en</lang>
+	</statuses>
+	<statuses>
+		<metadata>
+			<result_type>recent</result_type>
+			<iso_language_code>en</iso_language_code>
+		</metadata>
+		<created_at>Sun Aug 17 19:00:43 +0000 2014</created_at>
+		<id>501081203790077950</id>
+		<id_str>501081203790077952</id_str>
+		<text>Look for tweets from CDC staff on the ground in W. Africa about their efforts to control #Ebola outbreak. They’ll use hashtag #CDCintheField</text>
+		<source>&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;Hootsuite&lt;/a&gt;</source>
+		<truncated>false</truncated>
+		<in_reply_to_status_id />
+		<in_reply_to_status_id_str />
+		<in_reply_to_user_id />
+		<in_reply_to_user_id_str />
+		<in_reply_to_screen_name />
+		<user>
+			<id>146569971</id>
+			<id_str>146569971</id_str>
+			<name>CDC</name>
+			<screen_name>CDCgov</screen_name>
+			<location>Atlanta, GA</location>
+			<description>CDC's official Twitter source for daily credible health &amp; safety updates f/ Centers for Disease Control &amp; Prevention. Privacy policy http://t.co/nTOTJDCRyO</description>
+			<url>http://t.co/5a7cTu2vly</url>
+			<entities>
+				<url>
+					<urls>
+						<url>http://t.co/5a7cTu2vly</url>
+						<expanded_url>http://www.cdc.gov</expanded_url>
+						<display_url>cdc.gov</display_url>
+						<indices>0</indices>
+						<indices>22</indices>
+					</urls>
+				</url>
+				<description>
+					<urls>
+						<url>http://t.co/nTOTJDCRyO</url>
+						<expanded_url>http://go.usa.gov/8Ea</expanded_url>
+						<display_url>go.usa.gov/8Ea</display_url>
+						<indices>133</indices>
+						<indices>155</indices>
+					</urls>
+				</description>
+			</entities>
+			<protected>false</protected>
+			<followers_count>344925</followers_count>
+			<friends_count>240</friends_count>
+			<listed_count>6340</listed_count>
+			<created_at>Fri May 21 19:40:40 +0000 2010</created_at>
+			<favourites_count>55</favourites_count>
+			<utc_offset>-14400</utc_offset>
+			<time_zone>Eastern Time (US &amp; Canada)</time_zone>
+			<geo_enabled>false</geo_enabled>
+			<verified>true</verified>
+			<statuses_count>10094</statuses_count>
+			<lang>en</lang>
+			<contributors_enabled>false</contributors_enabled>
+			<is_translator>false</is_translator>
+			<is_translation_enabled>false</is_translation_enabled>
+			<profile_background_color>C0DEED</profile_background_color>
+			<profile_background_image_url>http://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url>
+			<profile_background_image_url_https>https://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url_https>
+			<profile_background_tile>false</profile_background_tile>
+			<profile_image_url>http://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url>
+			<profile_image_url_https>https://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url_https>
+			<profile_banner_url>https://pbs.twimg.com/profile_banners/146569971/1398280755</profile_banner_url>
+			<profile_link_color>0084B4</profile_link_color>
+			<profile_sidebar_border_color>FFFFFF</profile_sidebar_border_color>
+			<profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+			<profile_text_color>333333</profile_text_color>
+			<profile_use_background_image>true</profile_use_background_image>
+			<default_profile>false</default_profile>
+			<default_profile_image>false</default_profile_image>
+			<following />
+			<follow_request_sent />
+			<notifications />
+		</user>
+		<geo />
+		<coordinates />
+		<place />
+		<contributors />
+		<retweet_count>52</retweet_count>
+		<favorite_count>27</favorite_count>
+		<entities>
+			<hashtags>
+				<text>Ebola</text>
+				<indices>89</indices>
+				<indices>95</indices>
+			</hashtags>
+			<hashtags>
+				<text>CDCintheField</text>
+				<indices>126</indices>
+				<indices>140</indices>
+			</hashtags>
+		</entities>
+		<favorited>false</favorited>
+		<retweeted>false</retweeted>
+		<lang>en</lang>
+	</statuses>
+	<statuses>
+		<metadata>
+			<result_type>recent</result_type>
+			<iso_language_code>en</iso_language_code>
+		</metadata>
+		<created_at>Sat Aug 16 14:01:37 +0000 2014</created_at>
+		<id>500643544487698400</id>
+		<id_str>500643544487698432</id_str>
+		<text>Good communication is essential to control #Ebola. Meet Rebecca, who will help spread the right messages in W Africa. http://t.co/I97M4STasH</text>
+		<source>&lt;a href=&quot;http://twitter.com&quot; rel=&quot;nofollow&quot;&gt;Twitter Web Client&lt;/a&gt;</source>
+		<truncated>false</truncated>
+		<in_reply_to_status_id />
+		<in_reply_to_status_id_str />
+		<in_reply_to_user_id />
+		<in_reply_to_user_id_str />
+		<in_reply_to_screen_name />
+		<user>
+			<id>146569971</id>
+			<id_str>146569971</id_str>
+			<name>CDC</name>
+			<screen_name>CDCgov</screen_name>
+			<location>Atlanta, GA</location>
+			<description>CDC's official Twitter source for daily credible health &amp; safety updates f/ Centers for Disease Control &amp; Prevention. Privacy policy http://t.co/nTOTJDCRyO</description>
+			<url>http://t.co/5a7cTu2vly</url>
+			<entities>
+				<url>
+					<urls>
+						<url>http://t.co/5a7cTu2vly</url>
+						<expanded_url>http://www.cdc.gov</expanded_url>
+						<display_url>cdc.gov</display_url>
+						<indices>0</indices>
+						<indices>22</indices>
+					</urls>
+				</url>
+				<description>
+					<urls>
+						<url>http://t.co/nTOTJDCRyO</url>
+						<expanded_url>http://go.usa.gov/8Ea</expanded_url>
+						<display_url>go.usa.gov/8Ea</display_url>
+						<indices>133</indices>
+						<indices>155</indices>
+					</urls>
+				</description>
+			</entities>
+			<protected>false</protected>
+			<followers_count>344925</followers_count>
+			<friends_count>240</friends_count>
+			<listed_count>6340</listed_count>
+			<created_at>Fri May 21 19:40:40 +0000 2010</created_at>
+			<favourites_count>55</favourites_count>
+			<utc_offset>-14400</utc_offset>
+			<time_zone>Eastern Time (US &amp; Canada)</time_zone>
+			<geo_enabled>false</geo_enabled>
+			<verified>true</verified>
+			<statuses_count>10094</statuses_count>
+			<lang>en</lang>
+			<contributors_enabled>false</contributors_enabled>
+			<is_translator>false</is_translator>
+			<is_translation_enabled>false</is_translation_enabled>
+			<profile_background_color>C0DEED</profile_background_color>
+			<profile_background_image_url>http://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url>
+			<profile_background_image_url_https>https://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url_https>
+			<profile_background_tile>false</profile_background_tile>
+			<profile_image_url>http://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url>
+			<profile_image_url_https>https://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url_https>
+			<profile_banner_url>https://pbs.twimg.com/profile_banners/146569971/1398280755</profile_banner_url>
+			<profile_link_color>0084B4</profile_link_color>
+			<profile_sidebar_border_color>FFFFFF</profile_sidebar_border_color>
+			<profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+			<profile_text_color>333333</profile_text_color>
+			<profile_use_background_image>true</profile_use_background_image>
+			<default_profile>false</default_profile>
+			<default_profile_image>false</default_profile_image>
+			<following />
+			<follow_request_sent />
+			<notifications />
+		</user>
+		<geo />
+		<coordinates />
+		<place />
+		<contributors />
+		<retweet_count>44</retweet_count>
+		<favorite_count>24</favorite_count>
+		<entities>
+			<hashtags>
+				<text>Ebola</text>
+				<indices>43</indices>
+				<indices>49</indices>
+			</hashtags>
+			<urls>
+				<url>http://t.co/I97M4STasH</url>
+				<expanded_url>http://go.usa.gov/EZkz</expanded_url>
+				<display_url>go.usa.gov/EZkz</display_url>
+				<indices>118</indices>
+				<indices>140</indices>
+			</urls>
+		</entities>
+		<favorited>false</favorited>
+		<retweeted>false</retweeted>
+		<possibly_sensitive>false</possibly_sensitive>
+		<lang>en</lang>
+	</statuses>
+	<statuses>
+		<metadata>
+			<result_type>recent</result_type>
+			<iso_language_code>en</iso_language_code>
+		</metadata>
+		<created_at>Fri Aug 15 21:56:40 +0000 2014</created_at>
+		<id>500400706567041000</id>
+		<id_str>500400706567041024</id_str>
+		<text>New #Ebola ward opens today in Nigeria. Replaces old ward, will give safer patient care &amp;amp; isolation. http://t.co/xjl1nEPMa8</text>
+		<source>&lt;a href=&quot;http://twitter.com&quot; rel=&quot;nofollow&quot;&gt;Twitter Web Client&lt;/a&gt;</source>
+		<truncated>false</truncated>
+		<in_reply_to_status_id />
+		<in_reply_to_status_id_str />
+		<in_reply_to_user_id />
+		<in_reply_to_user_id_str />
+		<in_reply_to_screen_name />
+		<user>
+			<id>146569971</id>
+			<id_str>146569971</id_str>
+			<name>CDC</name>
+			<screen_name>CDCgov</screen_name>
+			<location>Atlanta, GA</location>
+			<description>CDC's official Twitter source for daily credible health &amp; safety updates f/ Centers for Disease Control &amp; Prevention. Privacy policy http://t.co/nTOTJDCRyO</description>
+			<url>http://t.co/5a7cTu2vly</url>
+			<entities>
+				<url>
+					<urls>
+						<url>http://t.co/5a7cTu2vly</url>
+						<expanded_url>http://www.cdc.gov</expanded_url>
+						<display_url>cdc.gov</display_url>
+						<indices>0</indices>
+						<indices>22</indices>
+					</urls>
+				</url>
+				<description>
+					<urls>
+						<url>http://t.co/nTOTJDCRyO</url>
+						<expanded_url>http://go.usa.gov/8Ea</expanded_url>
+						<display_url>go.usa.gov/8Ea</display_url>
+						<indices>133</indices>
+						<indices>155</indices>
+					</urls>
+				</description>
+			</entities>
+			<protected>false</protected>
+			<followers_count>344925</followers_count>
+			<friends_count>240</friends_count>
+			<listed_count>6340</listed_count>
+			<created_at>Fri May 21 19:40:40 +0000 2010</created_at>
+			<favourites_count>55</favourites_count>
+			<utc_offset>-14400</utc_offset>
+			<time_zone>Eastern Time (US &amp; Canada)</time_zone>
+			<geo_enabled>false</geo_enabled>
+			<verified>true</verified>
+			<statuses_count>10094</statuses_count>
+			<lang>en</lang>
+			<contributors_enabled>false</contributors_enabled>
+			<is_translator>false</is_translator>
+			<is_translation_enabled>false</is_translation_enabled>
+			<profile_background_color>C0DEED</profile_background_color>
+			<profile_background_image_url>http://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url>
+			<profile_background_image_url_https>https://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url_https>
+			<profile_background_tile>false</profile_background_tile>
+			<profile_image_url>http://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url>
+			<profile_image_url_https>https://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url_https>
+			<profile_banner_url>https://pbs.twimg.com/profile_banners/146569971/1398280755</profile_banner_url>
+			<profile_link_color>0084B4</profile_link_color>
+			<profile_sidebar_border_color>FFFFFF</profile_sidebar_border_color>
+			<profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+			<profile_text_color>333333</profile_text_color>
+			<profile_use_background_image>true</profile_use_background_image>
+			<default_profile>false</default_profile>
+			<default_profile_image>false</default_profile_image>
+			<following />
+			<follow_request_sent />
+			<notifications />
+		</user>
+		<geo />
+		<coordinates />
+		<place />
+		<contributors />
+		<retweet_count>282</retweet_count>
+		<favorite_count>157</favorite_count>
+		<entities>
+			<hashtags>
+				<text>Ebola</text>
+				<indices>4</indices>
+				<indices>10</indices>
+			</hashtags>
+			<media>
+				<id>500400702351360000</id>
+				<id_str>500400702351360001</id_str>
+				<indices>105</indices>
+				<indices>127</indices>
+				<media_url>http://pbs.twimg.com/media/BvHHyZ0CQAEJIbz.jpg</media_url>
+				<media_url_https>https://pbs.twimg.com/media/BvHHyZ0CQAEJIbz.jpg</media_url_https>
+				<url>http://t.co/xjl1nEPMa8</url>
+				<display_url>pic.twitter.com/xjl1nEPMa8</display_url>
+				<expanded_url>http://twitter.com/CDCgov/status/500400706567041024/photo/1</expanded_url>
+				<type>photo</type>
+				<sizes>
+					<medium>
+						<w>600</w>
+						<h>450</h>
+						<resize>fit</resize>
+					</medium>
+					<thumb>
+						<w>150</w>
+						<h>150</h>
+						<resize>crop</resize>
+					</thumb>
+					<large>
+						<w>1000</w>
+						<h>750</h>
+						<resize>fit</resize>
+					</large>
+					<small>
+						<w>340</w>
+						<h>255</h>
+						<resize>fit</resize>
+					</small>
+				</sizes>
+			</media>
+		</entities>
+		<favorited>false</favorited>
+		<retweeted>false</retweeted>
+		<possibly_sensitive>false</possibly_sensitive>
+		<lang>en</lang>
+	</statuses>
+	<statuses>
+		<metadata>
+			<result_type>recent</result_type>
+			<iso_language_code>en</iso_language_code>
+		</metadata>
+		<created_at>Fri Aug 15 20:05:34 +0000 2014</created_at>
+		<id>500372750398410750</id>
+		<id_str>500372750398410752</id_str>
+		<text>RT @TIMEHealth: WATCH: CDC experts and Emory docs explain Ebola and the diseases that come next http://t.co/U2GPLZEhd5</text>
+		<source>&lt;a href=&quot;http://twitter.com&quot; rel=&quot;nofollow&quot;&gt;Twitter Web Client&lt;/a&gt;</source>
+		<truncated>false</truncated>
+		<in_reply_to_status_id />
+		<in_reply_to_status_id_str />
+		<in_reply_to_user_id />
+		<in_reply_to_user_id_str />
+		<in_reply_to_screen_name />
+		<user>
+			<id>146569971</id>
+			<id_str>146569971</id_str>
+			<name>CDC</name>
+			<screen_name>CDCgov</screen_name>
+			<location>Atlanta, GA</location>
+			<description>CDC's official Twitter source for daily credible health &amp; safety updates f/ Centers for Disease Control &amp; Prevention. Privacy policy http://t.co/nTOTJDCRyO</description>
+			<url>http://t.co/5a7cTu2vly</url>
+			<entities>
+				<url>
+					<urls>
+						<url>http://t.co/5a7cTu2vly</url>
+						<expanded_url>http://www.cdc.gov</expanded_url>
+						<display_url>cdc.gov</display_url>
+						<indices>0</indices>
+						<indices>22</indices>
+					</urls>
+				</url>
+				<description>
+					<urls>
+						<url>http://t.co/nTOTJDCRyO</url>
+						<expanded_url>http://go.usa.gov/8Ea</expanded_url>
+						<display_url>go.usa.gov/8Ea</display_url>
+						<indices>133</indices>
+						<indices>155</indices>
+					</urls>
+				</description>
+			</entities>
+			<protected>false</protected>
+			<followers_count>344925</followers_count>
+			<friends_count>240</friends_count>
+			<listed_count>6340</listed_count>
+			<created_at>Fri May 21 19:40:40 +0000 2010</created_at>
+			<favourites_count>55</favourites_count>
+			<utc_offset>-14400</utc_offset>
+			<time_zone>Eastern Time (US &amp; Canada)</time_zone>
+			<geo_enabled>false</geo_enabled>
+			<verified>true</verified>
+			<statuses_count>10094</statuses_count>
+			<lang>en</lang>
+			<contributors_enabled>false</contributors_enabled>
+			<is_translator>false</is_translator>
+			<is_translation_enabled>false</is_translation_enabled>
+			<profile_background_color>C0DEED</profile_background_color>
+			<profile_background_image_url>http://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url>
+			<profile_background_image_url_https>https://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url_https>
+			<profile_background_tile>false</profile_background_tile>
+			<profile_image_url>http://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url>
+			<profile_image_url_https>https://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url_https>
+			<profile_banner_url>https://pbs.twimg.com/profile_banners/146569971/1398280755</profile_banner_url>
+			<profile_link_color>0084B4</profile_link_color>
+			<profile_sidebar_border_color>FFFFFF</profile_sidebar_border_color>
+			<profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+			<profile_text_color>333333</profile_text_color>
+			<profile_use_background_image>true</profile_use_background_image>
+			<default_profile>false</default_profile>
+			<default_profile_image>false</default_profile_image>
+			<following />
+			<follow_request_sent />
+			<notifications />
+		</user>
+		<geo />
+		<coordinates />
+		<place />
+		<contributors />
+		<retweeted_status>
+			<metadata>
+				<result_type>recent</result_type>
+				<iso_language_code>en</iso_language_code>
+			</metadata>
+			<created_at>Thu Aug 14 20:14:42 +0000 2014</created_at>
+			<id>500012657987305500</id>
+			<id_str>500012657987305472</id_str>
+			<text>WATCH: CDC experts and Emory docs explain Ebola and the diseases that come next http://t.co/U2GPLZEhd5</text>
+			<source>&lt;a href=&quot;https://about.twitter.com/products/tweetdeck&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+			<truncated>false</truncated>
+			<in_reply_to_status_id />
+			<in_reply_to_status_id_str />
+			<in_reply_to_user_id />
+			<in_reply_to_user_id_str />
+			<in_reply_to_screen_name />
+			<user>
+				<id>15723971</id>
+				<id_str>15723971</id_str>
+				<name>TIME Health</name>
+				<screen_name>TIMEHealth</screen_name>
+				<location></location>
+				<description>Breaking health news, tips you can use, and exclusive health features from @TIME. Hosted by @acsifferlin.</description>
+				<url>http://t.co/LYGRdEbQbA</url>
+				<entities>
+					<url>
+						<urls>
+							<url>http://t.co/LYGRdEbQbA</url>
+							<expanded_url>http://time.com/health/</expanded_url>
+							<display_url>time.com/health/</display_url>
+							<indices>0</indices>
+							<indices>22</indices>
+						</urls>
+					</url>
+					<description></description>
+				</entities>
+				<protected>false</protected>
+				<followers_count>331368</followers_count>
+				<friends_count>226</friends_count>
+				<listed_count>4662</listed_count>
+				<created_at>Mon Aug 04 16:12:56 +0000 2008</created_at>
+				<favourites_count>79</favourites_count>
+				<utc_offset>-14400</utc_offset>
+				<time_zone>Eastern Time (US &amp; Canada)</time_zone>
+				<geo_enabled>false</geo_enabled>
+				<verified>false</verified>
+				<statuses_count>9114</statuses_count>
+				<lang>en</lang>
+				<contributors_enabled>false</contributors_enabled>
+				<is_translator>false</is_translator>
+				<is_translation_enabled>false</is_translation_enabled>
+				<profile_background_color>CC0000</profile_background_color>
+				<profile_background_image_url>http://pbs.twimg.com/profile_background_images/147069112/twitter-time-health_healthland.gif</profile_background_image_url>
+				<profile_background_image_url_https>https://pbs.twimg.com/profile_background_images/147069112/twitter-time-health_healthland.gif</profile_background_image_url_https>
+				<profile_background_tile>true</profile_background_tile>
+				<profile_image_url>http://pbs.twimg.com/profile_images/481148195171356672/yid7-2H5_normal.jpeg</profile_image_url>
+				<profile_image_url_https>https://pbs.twimg.com/profile_images/481148195171356672/yid7-2H5_normal.jpeg</profile_image_url_https>
+				<profile_banner_url>https://pbs.twimg.com/profile_banners/15723971/1403549808</profile_banner_url>
+				<profile_link_color>4DAFBA</profile_link_color>
+				<profile_sidebar_border_color>CC0000</profile_sidebar_border_color>
+				<profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+				<profile_text_color>000000</profile_text_color>
+				<profile_use_background_image>true</profile_use_background_image>
+				<default_profile>false</default_profile>
+				<default_profile_image>false</default_profile_image>
+				<following />
+				<follow_request_sent />
+				<notifications />
+			</user>
+			<geo />
+			<coordinates />
+			<place />
+			<contributors />
+			<retweet_count>62</retweet_count>
+			<favorite_count>30</favorite_count>
+			<entities>
+				<urls>
+					<url>http://t.co/U2GPLZEhd5</url>
+					<expanded_url>http://ti.me/1rbpxGY</expanded_url>
+					<display_url>ti.me/1rbpxGY</display_url>
+					<indices>80</indices>
+					<indices>102</indices>
+				</urls>
+			</entities>
+			<favorited>false</favorited>
+			<retweeted>false</retweeted>
+			<possibly_sensitive>false</possibly_sensitive>
+			<lang>en</lang>
+		</retweeted_status>
+		<retweet_count>62</retweet_count>
+		<favorite_count>0</favorite_count>
+		<entities>
+			<urls>
+				<url>http://t.co/U2GPLZEhd5</url>
+				<expanded_url>http://ti.me/1rbpxGY</expanded_url>
+				<display_url>ti.me/1rbpxGY</display_url>
+				<indices>96</indices>
+				<indices>118</indices>
+			</urls>
+			<user_mentions>
+				<screen_name>TIMEHealth</screen_name>
+				<name>TIME Health</name>
+				<id>15723971</id>
+				<id_str>15723971</id_str>
+				<indices>3</indices>
+				<indices>14</indices>
+			</user_mentions>
+		</entities>
+		<favorited>false</favorited>
+		<retweeted>false</retweeted>
+		<possibly_sensitive>false</possibly_sensitive>
+		<lang>en</lang>
+	</statuses>
+	<statuses>
+		<metadata>
+			<result_type>recent</result_type>
+			<iso_language_code>en</iso_language_code>
+		</metadata>
+		<created_at>Fri Aug 15 19:56:44 +0000 2014</created_at>
+		<id>500370524200243200</id>
+		<id_str>500370524200243200</id_str>
+		<text>1 photo, 6 words. #VetoViolence — Post to share your inspiration for ending violence against all women. http://t.co/wD61eB8p2k</text>
+		<source>&lt;a href=&quot;http://twitter.com&quot; rel=&quot;nofollow&quot;&gt;Twitter Web Client&lt;/a&gt;</source>
+		<truncated>false</truncated>
+		<in_reply_to_status_id />
+		<in_reply_to_status_id_str />
+		<in_reply_to_user_id />
+		<in_reply_to_user_id_str />
+		<in_reply_to_screen_name />
+		<user>
+			<id>146569971</id>
+			<id_str>146569971</id_str>
+			<name>CDC</name>
+			<screen_name>CDCgov</screen_name>
+			<location>Atlanta, GA</location>
+			<description>CDC's official Twitter source for daily credible health &amp; safety updates f/ Centers for Disease Control &amp; Prevention. Privacy policy http://t.co/nTOTJDCRyO</description>
+			<url>http://t.co/5a7cTu2vly</url>
+			<entities>
+				<url>
+					<urls>
+						<url>http://t.co/5a7cTu2vly</url>
+						<expanded_url>http://www.cdc.gov</expanded_url>
+						<display_url>cdc.gov</display_url>
+						<indices>0</indices>
+						<indices>22</indices>
+					</urls>
+				</url>
+				<description>
+					<urls>
+						<url>http://t.co/nTOTJDCRyO</url>
+						<expanded_url>http://go.usa.gov/8Ea</expanded_url>
+						<display_url>go.usa.gov/8Ea</display_url>
+						<indices>133</indices>
+						<indices>155</indices>
+					</urls>
+				</description>
+			</entities>
+			<protected>false</protected>
+			<followers_count>344925</followers_count>
+			<friends_count>240</friends_count>
+			<listed_count>6340</listed_count>
+			<created_at>Fri May 21 19:40:40 +0000 2010</created_at>
+			<favourites_count>55</favourites_count>
+			<utc_offset>-14400</utc_offset>
+			<time_zone>Eastern Time (US &amp; Canada)</time_zone>
+			<geo_enabled>false</geo_enabled>
+			<verified>true</verified>
+			<statuses_count>10094</statuses_count>
+			<lang>en</lang>
+			<contributors_enabled>false</contributors_enabled>
+			<is_translator>false</is_translator>
+			<is_translation_enabled>false</is_translation_enabled>
+			<profile_background_color>C0DEED</profile_background_color>
+			<profile_background_image_url>http://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url>
+			<profile_background_image_url_https>https://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url_https>
+			<profile_background_tile>false</profile_background_tile>
+			<profile_image_url>http://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url>
+			<profile_image_url_https>https://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url_https>
+			<profile_banner_url>https://pbs.twimg.com/profile_banners/146569971/1398280755</profile_banner_url>
+			<profile_link_color>0084B4</profile_link_color>
+			<profile_sidebar_border_color>FFFFFF</profile_sidebar_border_color>
+			<profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+			<profile_text_color>333333</profile_text_color>
+			<profile_use_background_image>true</profile_use_background_image>
+			<default_profile>false</default_profile>
+			<default_profile_image>false</default_profile_image>
+			<following />
+			<follow_request_sent />
+			<notifications />
+		</user>
+		<geo />
+		<coordinates />
+		<place />
+		<contributors />
+		<retweet_count>18</retweet_count>
+		<favorite_count>7</favorite_count>
+		<entities>
+			<hashtags>
+				<text>VetoViolence</text>
+				<indices>18</indices>
+				<indices>31</indices>
+			</hashtags>
+			<urls>
+				<url>http://t.co/wD61eB8p2k</url>
+				<expanded_url>http://on.fb.me/1tCGg5K</expanded_url>
+				<display_url>on.fb.me/1tCGg5K</display_url>
+				<indices>104</indices>
+				<indices>126</indices>
+			</urls>
+		</entities>
+		<favorited>false</favorited>
+		<retweeted>false</retweeted>
+		<possibly_sensitive>false</possibly_sensitive>
+		<lang>en</lang>
+	</statuses>
+	<statuses>
+		<metadata>
+			<result_type>recent</result_type>
+			<iso_language_code>en</iso_language_code>
+		</metadata>
+		<created_at>Fri Aug 15 18:04:43 +0000 2014</created_at>
+		<id>500342334517960700</id>
+		<id_str>500342334517960704</id_str>
+		<text>CDC #DiseaseDectective Rebecca works in the field to improve health messaging on #Ebola. http://t.co/I97M4STasH http://t.co/Nv76MbpGW9</text>
+		<source>&lt;a href=&quot;http://twitter.com&quot; rel=&quot;nofollow&quot;&gt;Twitter Web Client&lt;/a&gt;</source>
+		<truncated>false</truncated>
+		<in_reply_to_status_id />
+		<in_reply_to_status_id_str />
+		<in_reply_to_user_id />
+		<in_reply_to_user_id_str />
+		<in_reply_to_screen_name />
+		<user>
+			<id>146569971</id>
+			<id_str>146569971</id_str>
+			<name>CDC</name>
+			<screen_name>CDCgov</screen_name>
+			<location>Atlanta, GA</location>
+			<description>CDC's official Twitter source for daily credible health &amp; safety updates f/ Centers for Disease Control &amp; Prevention. Privacy policy http://t.co/nTOTJDCRyO</description>
+			<url>http://t.co/5a7cTu2vly</url>
+			<entities>
+				<url>
+					<urls>
+						<url>http://t.co/5a7cTu2vly</url>
+						<expanded_url>http://www.cdc.gov</expanded_url>
+						<display_url>cdc.gov</display_url>
+						<indices>0</indices>
+						<indices>22</indices>
+					</urls>
+				</url>
+				<description>
+					<urls>
+						<url>http://t.co/nTOTJDCRyO</url>
+						<expanded_url>http://go.usa.gov/8Ea</expanded_url>
+						<display_url>go.usa.gov/8Ea</display_url>
+						<indices>133</indices>
+						<indices>155</indices>
+					</urls>
+				</description>
+			</entities>
+			<protected>false</protected>
+			<followers_count>344925</followers_count>
+			<friends_count>240</friends_count>
+			<listed_count>6340</listed_count>
+			<created_at>Fri May 21 19:40:40 +0000 2010</created_at>
+			<favourites_count>55</favourites_count>
+			<utc_offset>-14400</utc_offset>
+			<time_zone>Eastern Time (US &amp; Canada)</time_zone>
+			<geo_enabled>false</geo_enabled>
+			<verified>true</verified>
+			<statuses_count>10094</statuses_count>
+			<lang>en</lang>
+			<contributors_enabled>false</contributors_enabled>
+			<is_translator>false</is_translator>
+			<is_translation_enabled>false</is_translation_enabled>
+			<profile_background_color>C0DEED</profile_background_color>
+			<profile_background_image_url>http://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url>
+			<profile_background_image_url_https>https://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url_https>
+			<profile_background_tile>false</profile_background_tile>
+			<profile_image_url>http://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url>
+			<profile_image_url_https>https://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url_https>
+			<profile_banner_url>https://pbs.twimg.com/profile_banners/146569971/1398280755</profile_banner_url>
+			<profile_link_color>0084B4</profile_link_color>
+			<profile_sidebar_border_color>FFFFFF</profile_sidebar_border_color>
+			<profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+			<profile_text_color>333333</profile_text_color>
+			<profile_use_background_image>true</profile_use_background_image>
+			<default_profile>false</default_profile>
+			<default_profile_image>false</default_profile_image>
+			<following />
+			<follow_request_sent />
+			<notifications />
+		</user>
+		<geo />
+		<coordinates />
+		<place />
+		<contributors />
+		<retweet_count>48</retweet_count>
+		<favorite_count>37</favorite_count>
+		<entities>
+			<hashtags>
+				<text>DiseaseDectective</text>
+				<indices>4</indices>
+				<indices>22</indices>
+			</hashtags>
+			<hashtags>
+				<text>Ebola</text>
+				<indices>81</indices>
+				<indices>87</indices>
+			</hashtags>
+			<urls>
+				<url>http://t.co/I97M4STasH</url>
+				<expanded_url>http://go.usa.gov/EZkz</expanded_url>
+				<display_url>go.usa.gov/EZkz</display_url>
+				<indices>89</indices>
+				<indices>111</indices>
+			</urls>
+			<media>
+				<id>500342333645525000</id>
+				<id_str>500342333645524992</id_str>
+				<indices>112</indices>
+				<indices>134</indices>
+				<media_url>http://pbs.twimg.com/media/BvGSs5cIEAADzDy.jpg</media_url>
+				<media_url_https>https://pbs.twimg.com/media/BvGSs5cIEAADzDy.jpg</media_url_https>
+				<url>http://t.co/Nv76MbpGW9</url>
+				<display_url>pic.twitter.com/Nv76MbpGW9</display_url>
+				<expanded_url>http://twitter.com/CDCgov/status/500342334517960704/photo/1</expanded_url>
+				<type>photo</type>
+				<sizes>
+					<large>
+						<w>580</w>
+						<h>580</h>
+						<resize>fit</resize>
+					</large>
+					<thumb>
+						<w>150</w>
+						<h>150</h>
+						<resize>crop</resize>
+					</thumb>
+					<small>
+						<w>340</w>
+						<h>340</h>
+						<resize>fit</resize>
+					</small>
+					<medium>
+						<w>580</w>
+						<h>580</h>
+						<resize>fit</resize>
+					</medium>
+				</sizes>
+			</media>
+		</entities>
+		<favorited>false</favorited>
+		<retweeted>false</retweeted>
+		<possibly_sensitive>false</possibly_sensitive>
+		<lang>en</lang>
+	</statuses>
+	<statuses>
+		<metadata>
+			<result_type>recent</result_type>
+			<iso_language_code>en</iso_language_code>
+		</metadata>
+		<created_at>Fri Aug 15 17:03:42 +0000 2014</created_at>
+		<id>500326982459359200</id>
+		<id_str>500326982459359232</id_str>
+		<text>Have a question for #CDCGrandRounds about #publichealth impact on #infertility? Reply to this tweet or e-mail grandrounds@cdc.gov.</text>
+		<source>&lt;a href=&quot;http://twitter.com&quot; rel=&quot;nofollow&quot;&gt;Twitter Web Client&lt;/a&gt;</source>
+		<truncated>false</truncated>
+		<in_reply_to_status_id />
+		<in_reply_to_status_id_str />
+		<in_reply_to_user_id />
+		<in_reply_to_user_id_str />
+		<in_reply_to_screen_name />
+		<user>
+			<id>146569971</id>
+			<id_str>146569971</id_str>
+			<name>CDC</name>
+			<screen_name>CDCgov</screen_name>
+			<location>Atlanta, GA</location>
+			<description>CDC's official Twitter source for daily credible health &amp; safety updates f/ Centers for Disease Control &amp; Prevention. Privacy policy http://t.co/nTOTJDCRyO</description>
+			<url>http://t.co/5a7cTu2vly</url>
+			<entities>
+				<url>
+					<urls>
+						<url>http://t.co/5a7cTu2vly</url>
+						<expanded_url>http://www.cdc.gov</expanded_url>
+						<display_url>cdc.gov</display_url>
+						<indices>0</indices>
+						<indices>22</indices>
+					</urls>
+				</url>
+				<description>
+					<urls>
+						<url>http://t.co/nTOTJDCRyO</url>
+						<expanded_url>http://go.usa.gov/8Ea</expanded_url>
+						<display_url>go.usa.gov/8Ea</display_url>
+						<indices>133</indices>
+						<indices>155</indices>
+					</urls>
+				</description>
+			</entities>
+			<protected>false</protected>
+			<followers_count>344925</followers_count>
+			<friends_count>240</friends_count>
+			<listed_count>6340</listed_count>
+			<created_at>Fri May 21 19:40:40 +0000 2010</created_at>
+			<favourites_count>55</favourites_count>
+			<utc_offset>-14400</utc_offset>
+			<time_zone>Eastern Time (US &amp; Canada)</time_zone>
+			<geo_enabled>false</geo_enabled>
+			<verified>true</verified>
+			<statuses_count>10094</statuses_count>
+			<lang>en</lang>
+			<contributors_enabled>false</contributors_enabled>
+			<is_translator>false</is_translator>
+			<is_translation_enabled>false</is_translation_enabled>
+			<profile_background_color>C0DEED</profile_background_color>
+			<profile_background_image_url>http://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url>
+			<profile_background_image_url_https>https://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url_https>
+			<profile_background_tile>false</profile_background_tile>
+			<profile_image_url>http://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url>
+			<profile_image_url_https>https://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url_https>
+			<profile_banner_url>https://pbs.twimg.com/profile_banners/146569971/1398280755</profile_banner_url>
+			<profile_link_color>0084B4</profile_link_color>
+			<profile_sidebar_border_color>FFFFFF</profile_sidebar_border_color>
+			<profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+			<profile_text_color>333333</profile_text_color>
+			<profile_use_background_image>true</profile_use_background_image>
+			<default_profile>false</default_profile>
+			<default_profile_image>false</default_profile_image>
+			<following />
+			<follow_request_sent />
+			<notifications />
+		</user>
+		<geo />
+		<coordinates />
+		<place />
+		<contributors />
+		<retweet_count>11</retweet_count>
+		<favorite_count>3</favorite_count>
+		<entities>
+			<hashtags>
+				<text>CDCGrandRounds</text>
+				<indices>20</indices>
+				<indices>35</indices>
+			</hashtags>
+			<hashtags>
+				<text>publichealth</text>
+				<indices>42</indices>
+				<indices>55</indices>
+			</hashtags>
+			<hashtags>
+				<text>infertility</text>
+				<indices>66</indices>
+				<indices>78</indices>
+			</hashtags>
+		</entities>
+		<favorited>false</favorited>
+		<retweeted>false</retweeted>
+		<lang>en</lang>
+	</statuses>
+	<statuses>
+		<metadata>
+			<result_type>recent</result_type>
+			<iso_language_code>en</iso_language_code>
+		</metadata>
+		<created_at>Fri Aug 15 17:03:10 +0000 2014</created_at>
+		<id>500326847620861950</id>
+		<id_str>500326847620861952</id_str>
+		<text>LIVE #CDCGrandrounds session 8/19, 1pm ET. Join discussion on #publichealth strategies &amp;amp; approaches for #infertility. http://t.co/dTHZdz3wvO</text>
+		<source>&lt;a href=&quot;http://twitter.com&quot; rel=&quot;nofollow&quot;&gt;Twitter Web Client&lt;/a&gt;</source>
+		<truncated>false</truncated>
+		<in_reply_to_status_id />
+		<in_reply_to_status_id_str />
+		<in_reply_to_user_id />
+		<in_reply_to_user_id_str />
+		<in_reply_to_screen_name />
+		<user>
+			<id>146569971</id>
+			<id_str>146569971</id_str>
+			<name>CDC</name>
+			<screen_name>CDCgov</screen_name>
+			<location>Atlanta, GA</location>
+			<description>CDC's official Twitter source for daily credible health &amp; safety updates f/ Centers for Disease Control &amp; Prevention. Privacy policy http://t.co/nTOTJDCRyO</description>
+			<url>http://t.co/5a7cTu2vly</url>
+			<entities>
+				<url>
+					<urls>
+						<url>http://t.co/5a7cTu2vly</url>
+						<expanded_url>http://www.cdc.gov</expanded_url>
+						<display_url>cdc.gov</display_url>
+						<indices>0</indices>
+						<indices>22</indices>
+					</urls>
+				</url>
+				<description>
+					<urls>
+						<url>http://t.co/nTOTJDCRyO</url>
+						<expanded_url>http://go.usa.gov/8Ea</expanded_url>
+						<display_url>go.usa.gov/8Ea</display_url>
+						<indices>133</indices>
+						<indices>155</indices>
+					</urls>
+				</description>
+			</entities>
+			<protected>false</protected>
+			<followers_count>344925</followers_count>
+			<friends_count>240</friends_count>
+			<listed_count>6340</listed_count>
+			<created_at>Fri May 21 19:40:40 +0000 2010</created_at>
+			<favourites_count>55</favourites_count>
+			<utc_offset>-14400</utc_offset>
+			<time_zone>Eastern Time (US &amp; Canada)</time_zone>
+			<geo_enabled>false</geo_enabled>
+			<verified>true</verified>
+			<statuses_count>10094</statuses_count>
+			<lang>en</lang>
+			<contributors_enabled>false</contributors_enabled>
+			<is_translator>false</is_translator>
+			<is_translation_enabled>false</is_translation_enabled>
+			<profile_background_color>C0DEED</profile_background_color>
+			<profile_background_image_url>http://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url>
+			<profile_background_image_url_https>https://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url_https>
+			<profile_background_tile>false</profile_background_tile>
+			<profile_image_url>http://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url>
+			<profile_image_url_https>https://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url_https>
+			<profile_banner_url>https://pbs.twimg.com/profile_banners/146569971/1398280755</profile_banner_url>
+			<profile_link_color>0084B4</profile_link_color>
+			<profile_sidebar_border_color>FFFFFF</profile_sidebar_border_color>
+			<profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+			<profile_text_color>333333</profile_text_color>
+			<profile_use_background_image>true</profile_use_background_image>
+			<default_profile>false</default_profile>
+			<default_profile_image>false</default_profile_image>
+			<following />
+			<follow_request_sent />
+			<notifications />
+		</user>
+		<geo />
+		<coordinates />
+		<place />
+		<contributors />
+		<retweet_count>10</retweet_count>
+		<favorite_count>3</favorite_count>
+		<entities>
+			<hashtags>
+				<text>CDCGrandrounds</text>
+				<indices>5</indices>
+				<indices>20</indices>
+			</hashtags>
+			<hashtags>
+				<text>publichealth</text>
+				<indices>62</indices>
+				<indices>75</indices>
+			</hashtags>
+			<hashtags>
+				<text>infertility</text>
+				<indices>108</indices>
+				<indices>120</indices>
+			</hashtags>
+			<urls>
+				<url>http://t.co/dTHZdz3wvO</url>
+				<expanded_url>http://go.usa.gov/EZT3</expanded_url>
+				<display_url>go.usa.gov/EZT3</display_url>
+				<indices>122</indices>
+				<indices>144</indices>
+			</urls>
+		</entities>
+		<favorited>false</favorited>
+		<retweeted>false</retweeted>
+		<possibly_sensitive>false</possibly_sensitive>
+		<lang>en</lang>
+	</statuses>
+	<statuses>
+		<metadata>
+			<result_type>recent</result_type>
+			<iso_language_code>en</iso_language_code>
+		</metadata>
+		<created_at>Fri Aug 15 16:21:14 +0000 2014</created_at>
+		<id>500316294793920500</id>
+		<id_str>500316294793920513</id_str>
+		<text>RT @CDCGlobal: Check out this #infographic on how CDC is working to stop the #Ebola outbreak. http://t.co/IMCWgRw2Ih #GlobalHealthSecurity</text>
+		<source>&lt;a href=&quot;http://twitter.com&quot; rel=&quot;nofollow&quot;&gt;Twitter Web Client&lt;/a&gt;</source>
+		<truncated>false</truncated>
+		<in_reply_to_status_id />
+		<in_reply_to_status_id_str />
+		<in_reply_to_user_id />
+		<in_reply_to_user_id_str />
+		<in_reply_to_screen_name />
+		<user>
+			<id>146569971</id>
+			<id_str>146569971</id_str>
+			<name>CDC</name>
+			<screen_name>CDCgov</screen_name>
+			<location>Atlanta, GA</location>
+			<description>CDC's official Twitter source for daily credible health &amp; safety updates f/ Centers for Disease Control &amp; Prevention. Privacy policy http://t.co/nTOTJDCRyO</description>
+			<url>http://t.co/5a7cTu2vly</url>
+			<entities>
+				<url>
+					<urls>
+						<url>http://t.co/5a7cTu2vly</url>
+						<expanded_url>http://www.cdc.gov</expanded_url>
+						<display_url>cdc.gov</display_url>
+						<indices>0</indices>
+						<indices>22</indices>
+					</urls>
+				</url>
+				<description>
+					<urls>
+						<url>http://t.co/nTOTJDCRyO</url>
+						<expanded_url>http://go.usa.gov/8Ea</expanded_url>
+						<display_url>go.usa.gov/8Ea</display_url>
+						<indices>133</indices>
+						<indices>155</indices>
+					</urls>
+				</description>
+			</entities>
+			<protected>false</protected>
+			<followers_count>344925</followers_count>
+			<friends_count>240</friends_count>
+			<listed_count>6340</listed_count>
+			<created_at>Fri May 21 19:40:40 +0000 2010</created_at>
+			<favourites_count>55</favourites_count>
+			<utc_offset>-14400</utc_offset>
+			<time_zone>Eastern Time (US &amp; Canada)</time_zone>
+			<geo_enabled>false</geo_enabled>
+			<verified>true</verified>
+			<statuses_count>10094</statuses_count>
+			<lang>en</lang>
+			<contributors_enabled>false</contributors_enabled>
+			<is_translator>false</is_translator>
+			<is_translation_enabled>false</is_translation_enabled>
+			<profile_background_color>C0DEED</profile_background_color>
+			<profile_background_image_url>http://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url>
+			<profile_background_image_url_https>https://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url_https>
+			<profile_background_tile>false</profile_background_tile>
+			<profile_image_url>http://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url>
+			<profile_image_url_https>https://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url_https>
+			<profile_banner_url>https://pbs.twimg.com/profile_banners/146569971/1398280755</profile_banner_url>
+			<profile_link_color>0084B4</profile_link_color>
+			<profile_sidebar_border_color>FFFFFF</profile_sidebar_border_color>
+			<profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+			<profile_text_color>333333</profile_text_color>
+			<profile_use_background_image>true</profile_use_background_image>
+			<default_profile>false</default_profile>
+			<default_profile_image>false</default_profile_image>
+			<following />
+			<follow_request_sent />
+			<notifications />
+		</user>
+		<geo />
+		<coordinates />
+		<place />
+		<contributors />
+		<retweeted_status>
+			<metadata>
+				<result_type>recent</result_type>
+				<iso_language_code>en</iso_language_code>
+			</metadata>
+			<created_at>Fri Aug 15 16:15:31 +0000 2014</created_at>
+			<id>500314853182308350</id>
+			<id_str>500314853182308352</id_str>
+			<text>Check out this #infographic on how CDC is working to stop the #Ebola outbreak. http://t.co/IMCWgRw2Ih #GlobalHealthSecurity</text>
+			<source>&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;Hootsuite&lt;/a&gt;</source>
+			<truncated>false</truncated>
+			<in_reply_to_status_id />
+			<in_reply_to_status_id_str />
+			<in_reply_to_user_id />
+			<in_reply_to_user_id_str />
+			<in_reply_to_screen_name />
+			<user>
+				<id>357648167</id>
+				<id_str>357648167</id_str>
+				<name>CDC Global Health</name>
+				<screen_name>CDCGlobal</screen_name>
+				<location>Atlanta, GA</location>
+				<description>CDC works 24/7 to save lives, reduce disease, and improve #globalhealth around the world. Links, follows, and retweets do not constitute endorsement.</description>
+				<url>http://t.co/LneH8LctWd</url>
+				<entities>
+					<url>
+						<urls>
+							<url>http://t.co/LneH8LctWd</url>
+							<expanded_url>http://www.cdc.gov/global</expanded_url>
+							<display_url>cdc.gov/global</display_url>
+							<indices>0</indices>
+							<indices>22</indices>
+						</urls>
+					</url>
+					<description></description>
+				</entities>
+				<protected>false</protected>
+				<followers_count>41506</followers_count>
+				<friends_count>525</friends_count>
+				<listed_count>819</listed_count>
+				<created_at>Thu Aug 18 18:00:14 +0000 2011</created_at>
+				<favourites_count>47</favourites_count>
+				<utc_offset>-14400</utc_offset>
+				<time_zone>Eastern Time (US &amp; Canada)</time_zone>
+				<geo_enabled>false</geo_enabled>
+				<verified>true</verified>
+				<statuses_count>7647</statuses_count>
+				<lang>en</lang>
+				<contributors_enabled>false</contributors_enabled>
+				<is_translator>false</is_translator>
+				<is_translation_enabled>false</is_translation_enabled>
+				<profile_background_color>000000</profile_background_color>
+				<profile_background_image_url>http://pbs.twimg.com/profile_background_images/663873980/l794tmbv93hf5kndj9ji.jpeg</profile_background_image_url>
+				<profile_background_image_url_https>https://pbs.twimg.com/profile_background_images/663873980/l794tmbv93hf5kndj9ji.jpeg</profile_background_image_url_https>
+				<profile_background_tile>false</profile_background_tile>
+				<profile_image_url>http://pbs.twimg.com/profile_images/1540369972/cdcglobal_twitter_profile2_normal.jpg</profile_image_url>
+				<profile_image_url_https>https://pbs.twimg.com/profile_images/1540369972/cdcglobal_twitter_profile2_normal.jpg</profile_image_url_https>
+				<profile_banner_url>https://pbs.twimg.com/profile_banners/357648167/1348079643</profile_banner_url>
+				<profile_link_color>1940B3</profile_link_color>
+				<profile_sidebar_border_color>000000</profile_sidebar_border_color>
+				<profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+				<profile_text_color>333333</profile_text_color>
+				<profile_use_background_image>true</profile_use_background_image>
+				<default_profile>false</default_profile>
+				<default_profile_image>false</default_profile_image>
+				<following />
+				<follow_request_sent />
+				<notifications />
+			</user>
+			<geo />
+			<coordinates />
+			<place />
+			<contributors />
+			<retweet_count>41</retweet_count>
+			<favorite_count>14</favorite_count>
+			<entities>
+				<hashtags>
+					<text>infographic</text>
+					<indices>15</indices>
+					<indices>27</indices>
+				</hashtags>
+				<hashtags>
+					<text>Ebola</text>
+					<indices>62</indices>
+					<indices>68</indices>
+				</hashtags>
+				<hashtags>
+					<text>GlobalHealthSecurity</text>
+					<indices>102</indices>
+					<indices>123</indices>
+				</hashtags>
+				<urls>
+					<url>http://t.co/IMCWgRw2Ih</url>
+					<expanded_url>http://ow.ly/AeBoW</expanded_url>
+					<display_url>ow.ly/AeBoW</display_url>
+					<indices>79</indices>
+					<indices>101</indices>
+				</urls>
+			</entities>
+			<favorited>false</favorited>
+			<retweeted>false</retweeted>
+			<possibly_sensitive>false</possibly_sensitive>
+			<lang>en</lang>
+		</retweeted_status>
+		<retweet_count>41</retweet_count>
+		<favorite_count>0</favorite_count>
+		<entities>
+			<hashtags>
+				<text>infographic</text>
+				<indices>30</indices>
+				<indices>42</indices>
+			</hashtags>
+			<hashtags>
+				<text>Ebola</text>
+				<indices>77</indices>
+				<indices>83</indices>
+			</hashtags>
+			<hashtags>
+				<text>GlobalHealthSecurity</text>
+				<indices>117</indices>
+				<indices>138</indices>
+			</hashtags>
+			<urls>
+				<url>http://t.co/IMCWgRw2Ih</url>
+				<expanded_url>http://ow.ly/AeBoW</expanded_url>
+				<display_url>ow.ly/AeBoW</display_url>
+				<indices>94</indices>
+				<indices>116</indices>
+			</urls>
+			<user_mentions>
+				<screen_name>CDCGlobal</screen_name>
+				<name>CDC Global Health</name>
+				<id>357648167</id>
+				<id_str>357648167</id_str>
+				<indices>3</indices>
+				<indices>13</indices>
+			</user_mentions>
+		</entities>
+		<favorited>false</favorited>
+		<retweeted>false</retweeted>
+		<possibly_sensitive>false</possibly_sensitive>
+		<lang>en</lang>
+	</statuses>
+	<statuses>
+		<metadata>
+			<result_type>recent</result_type>
+			<iso_language_code>en</iso_language_code>
+		</metadata>
+		<created_at>Fri Aug 15 16:06:22 +0000 2014</created_at>
+		<id>500312554347200500</id>
+		<id_str>500312554347200512</id_str>
+		<text>CDC will continue to take all necessary steps to maintain safety &amp;amp; advance CDC’s critical lab science work http://t.co/8DXgTQJfBu</text>
+		<source>&lt;a href=&quot;http://twitter.com&quot; rel=&quot;nofollow&quot;&gt;Twitter Web Client&lt;/a&gt;</source>
+		<truncated>false</truncated>
+		<in_reply_to_status_id />
+		<in_reply_to_status_id_str />
+		<in_reply_to_user_id />
+		<in_reply_to_user_id_str />
+		<in_reply_to_screen_name />
+		<user>
+			<id>146569971</id>
+			<id_str>146569971</id_str>
+			<name>CDC</name>
+			<screen_name>CDCgov</screen_name>
+			<location>Atlanta, GA</location>
+			<description>CDC's official Twitter source for daily credible health &amp; safety updates f/ Centers for Disease Control &amp; Prevention. Privacy policy http://t.co/nTOTJDCRyO</description>
+			<url>http://t.co/5a7cTu2vly</url>
+			<entities>
+				<url>
+					<urls>
+						<url>http://t.co/5a7cTu2vly</url>
+						<expanded_url>http://www.cdc.gov</expanded_url>
+						<display_url>cdc.gov</display_url>
+						<indices>0</indices>
+						<indices>22</indices>
+					</urls>
+				</url>
+				<description>
+					<urls>
+						<url>http://t.co/nTOTJDCRyO</url>
+						<expanded_url>http://go.usa.gov/8Ea</expanded_url>
+						<display_url>go.usa.gov/8Ea</display_url>
+						<indices>133</indices>
+						<indices>155</indices>
+					</urls>
+				</description>
+			</entities>
+			<protected>false</protected>
+			<followers_count>344925</followers_count>
+			<friends_count>240</friends_count>
+			<listed_count>6340</listed_count>
+			<created_at>Fri May 21 19:40:40 +0000 2010</created_at>
+			<favourites_count>55</favourites_count>
+			<utc_offset>-14400</utc_offset>
+			<time_zone>Eastern Time (US &amp; Canada)</time_zone>
+			<geo_enabled>false</geo_enabled>
+			<verified>true</verified>
+			<statuses_count>10094</statuses_count>
+			<lang>en</lang>
+			<contributors_enabled>false</contributors_enabled>
+			<is_translator>false</is_translator>
+			<is_translation_enabled>false</is_translation_enabled>
+			<profile_background_color>C0DEED</profile_background_color>
+			<profile_background_image_url>http://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url>
+			<profile_background_image_url_https>https://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url_https>
+			<profile_background_tile>false</profile_background_tile>
+			<profile_image_url>http://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url>
+			<profile_image_url_https>https://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url_https>
+			<profile_banner_url>https://pbs.twimg.com/profile_banners/146569971/1398280755</profile_banner_url>
+			<profile_link_color>0084B4</profile_link_color>
+			<profile_sidebar_border_color>FFFFFF</profile_sidebar_border_color>
+			<profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+			<profile_text_color>333333</profile_text_color>
+			<profile_use_background_image>true</profile_use_background_image>
+			<default_profile>false</default_profile>
+			<default_profile_image>false</default_profile_image>
+			<following />
+			<follow_request_sent />
+			<notifications />
+		</user>
+		<geo />
+		<coordinates />
+		<place />
+		<contributors />
+		<retweet_count>9</retweet_count>
+		<favorite_count>4</favorite_count>
+		<entities>
+			<urls>
+				<url>http://t.co/8DXgTQJfBu</url>
+				<expanded_url>http://go.usa.gov/EWeV</expanded_url>
+				<display_url>go.usa.gov/EWeV</display_url>
+				<indices>111</indices>
+				<indices>133</indices>
+			</urls>
+		</entities>
+		<favorited>false</favorited>
+		<retweeted>false</retweeted>
+		<possibly_sensitive>false</possibly_sensitive>
+		<lang>en</lang>
+	</statuses>
+	<statuses>
+		<metadata>
+			<result_type>recent</result_type>
+			<iso_language_code>en</iso_language_code>
+		</metadata>
+		<created_at>Fri Aug 15 16:05:24 +0000 2014</created_at>
+		<id>500312309630521340</id>
+		<id_str>500312309630521344</id_str>
+		<text>Today CDC released updates &amp;amp; actions taken showing progress in lab safety. Read CDC’s statement: http://t.co/8DXgTQJfBu.</text>
+		<source>&lt;a href=&quot;http://twitter.com&quot; rel=&quot;nofollow&quot;&gt;Twitter Web Client&lt;/a&gt;</source>
+		<truncated>false</truncated>
+		<in_reply_to_status_id />
+		<in_reply_to_status_id_str />
+		<in_reply_to_user_id />
+		<in_reply_to_user_id_str />
+		<in_reply_to_screen_name />
+		<user>
+			<id>146569971</id>
+			<id_str>146569971</id_str>
+			<name>CDC</name>
+			<screen_name>CDCgov</screen_name>
+			<location>Atlanta, GA</location>
+			<description>CDC's official Twitter source for daily credible health &amp; safety updates f/ Centers for Disease Control &amp; Prevention. Privacy policy http://t.co/nTOTJDCRyO</description>
+			<url>http://t.co/5a7cTu2vly</url>
+			<entities>
+				<url>
+					<urls>
+						<url>http://t.co/5a7cTu2vly</url>
+						<expanded_url>http://www.cdc.gov</expanded_url>
+						<display_url>cdc.gov</display_url>
+						<indices>0</indices>
+						<indices>22</indices>
+					</urls>
+				</url>
+				<description>
+					<urls>
+						<url>http://t.co/nTOTJDCRyO</url>
+						<expanded_url>http://go.usa.gov/8Ea</expanded_url>
+						<display_url>go.usa.gov/8Ea</display_url>
+						<indices>133</indices>
+						<indices>155</indices>
+					</urls>
+				</description>
+			</entities>
+			<protected>false</protected>
+			<followers_count>344925</followers_count>
+			<friends_count>240</friends_count>
+			<listed_count>6340</listed_count>
+			<created_at>Fri May 21 19:40:40 +0000 2010</created_at>
+			<favourites_count>55</favourites_count>
+			<utc_offset>-14400</utc_offset>
+			<time_zone>Eastern Time (US &amp; Canada)</time_zone>
+			<geo_enabled>false</geo_enabled>
+			<verified>true</verified>
+			<statuses_count>10094</statuses_count>
+			<lang>en</lang>
+			<contributors_enabled>false</contributors_enabled>
+			<is_translator>false</is_translator>
+			<is_translation_enabled>false</is_translation_enabled>
+			<profile_background_color>C0DEED</profile_background_color>
+			<profile_background_image_url>http://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url>
+			<profile_background_image_url_https>https://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url_https>
+			<profile_background_tile>false</profile_background_tile>
+			<profile_image_url>http://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url>
+			<profile_image_url_https>https://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url_https>
+			<profile_banner_url>https://pbs.twimg.com/profile_banners/146569971/1398280755</profile_banner_url>
+			<profile_link_color>0084B4</profile_link_color>
+			<profile_sidebar_border_color>FFFFFF</profile_sidebar_border_color>
+			<profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+			<profile_text_color>333333</profile_text_color>
+			<profile_use_background_image>true</profile_use_background_image>
+			<default_profile>false</default_profile>
+			<default_profile_image>false</default_profile_image>
+			<following />
+			<follow_request_sent />
+			<notifications />
+		</user>
+		<geo />
+		<coordinates />
+		<place />
+		<contributors />
+		<retweet_count>15</retweet_count>
+		<favorite_count>4</favorite_count>
+		<entities>
+			<urls>
+				<url>http://t.co/8DXgTQJfBu</url>
+				<expanded_url>http://go.usa.gov/EWeV</expanded_url>
+				<display_url>go.usa.gov/EWeV</display_url>
+				<indices>101</indices>
+				<indices>123</indices>
+			</urls>
+		</entities>
+		<favorited>false</favorited>
+		<retweeted>false</retweeted>
+		<possibly_sensitive>false</possibly_sensitive>
+		<lang>en</lang>
+	</statuses>
+	<statuses>
+		<metadata>
+			<result_type>recent</result_type>
+			<iso_language_code>en</iso_language_code>
+		</metadata>
+		<created_at>Fri Aug 15 14:07:28 +0000 2014</created_at>
+		<id>500282631079350300</id>
+		<id_str>500282631079350276</id_str>
+		<text>When serving vegetables to kids, do you make sure they’re colorful &amp;amp; made in healthy ways? You should! #VitalSigns http://t.co/hxFTxIsP4X</text>
+		<source>&lt;a href=&quot;http://twitter.com&quot; rel=&quot;nofollow&quot;&gt;Twitter Web Client&lt;/a&gt;</source>
+		<truncated>false</truncated>
+		<in_reply_to_status_id />
+		<in_reply_to_status_id_str />
+		<in_reply_to_user_id />
+		<in_reply_to_user_id_str />
+		<in_reply_to_screen_name />
+		<user>
+			<id>146569971</id>
+			<id_str>146569971</id_str>
+			<name>CDC</name>
+			<screen_name>CDCgov</screen_name>
+			<location>Atlanta, GA</location>
+			<description>CDC's official Twitter source for daily credible health &amp; safety updates f/ Centers for Disease Control &amp; Prevention. Privacy policy http://t.co/nTOTJDCRyO</description>
+			<url>http://t.co/5a7cTu2vly</url>
+			<entities>
+				<url>
+					<urls>
+						<url>http://t.co/5a7cTu2vly</url>
+						<expanded_url>http://www.cdc.gov</expanded_url>
+						<display_url>cdc.gov</display_url>
+						<indices>0</indices>
+						<indices>22</indices>
+					</urls>
+				</url>
+				<description>
+					<urls>
+						<url>http://t.co/nTOTJDCRyO</url>
+						<expanded_url>http://go.usa.gov/8Ea</expanded_url>
+						<display_url>go.usa.gov/8Ea</display_url>
+						<indices>133</indices>
+						<indices>155</indices>
+					</urls>
+				</description>
+			</entities>
+			<protected>false</protected>
+			<followers_count>344925</followers_count>
+			<friends_count>240</friends_count>
+			<listed_count>6340</listed_count>
+			<created_at>Fri May 21 19:40:40 +0000 2010</created_at>
+			<favourites_count>55</favourites_count>
+			<utc_offset>-14400</utc_offset>
+			<time_zone>Eastern Time (US &amp; Canada)</time_zone>
+			<geo_enabled>false</geo_enabled>
+			<verified>true</verified>
+			<statuses_count>10094</statuses_count>
+			<lang>en</lang>
+			<contributors_enabled>false</contributors_enabled>
+			<is_translator>false</is_translator>
+			<is_translation_enabled>false</is_translation_enabled>
+			<profile_background_color>C0DEED</profile_background_color>
+			<profile_background_image_url>http://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url>
+			<profile_background_image_url_https>https://pbs.twimg.com/profile_background_images/703525704/4ffb919c21e697be1d3a25d778705577.jpeg</profile_background_image_url_https>
+			<profile_background_tile>false</profile_background_tile>
+			<profile_image_url>http://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url>
+			<profile_image_url_https>https://pbs.twimg.com/profile_images/447192716221218818/AJ__Nd3C_normal.png</profile_image_url_https>
+			<profile_banner_url>https://pbs.twimg.com/profile_banners/146569971/1398280755</profile_banner_url>
+			<profile_link_color>0084B4</profile_link_color>
+			<profile_sidebar_border_color>FFFFFF</profile_sidebar_border_color>
+			<profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+			<profile_text_color>333333</profile_text_color>
+			<profile_use_background_image>true</profile_use_background_image>
+			<default_profile>false</default_profile>
+			<default_profile_image>false</default_profile_image>
+			<following />
+			<follow_request_sent />
+			<notifications />
+		</user>
+		<geo />
+		<coordinates />
+		<place />
+		<contributors />
+		<retweet_count>36</retweet_count>
+		<favorite_count>15</favorite_count>
+		<entities>
+			<hashtags>
+				<text>VitalSigns</text>
+				<indices>107</indices>
+				<indices>118</indices>
+			</hashtags>
+			<urls>
+				<url>http://t.co/hxFTxIsP4X</url>
+				<expanded_url>http://go.usa.gov/EWcx</expanded_url>
+				<display_url>go.usa.gov/EWcx</display_url>
+				<indices>119</indices>
+				<indices>141</indices>
+			</urls>
+		</entities>
+		<favorited>false</favorited>
+		<retweeted>false</retweeted>
+		<possibly_sensitive>false</possibly_sensitive>
+		<lang>en</lang>
+	</statuses>
+	<search_metadata>
+		<completed_in>0.015</completed_in>
+		<max_id>501111133722656800</max_id>
+		<max_id_str>501111133722656768</max_id_str>
+		<next_results>?max_id=500282631079350275&amp;q=from%3ACDCgov&amp;include_entities=1&amp;result_type=recent</next_results>
+		<query>from%3ACDCgov</query>
+		<refresh_url>?since_id=501111133722656768&amp;q=from%3ACDCgov&amp;result_type=recent&amp;include_entities=1</refresh_url>
+		<count>15</count>
+		<since_id>0</since_id>
+		<since_id_str>0</since_id_str>
+	</search_metadata>
+	

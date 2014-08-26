@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<title>CDC Features Series</title>
+	<description>An RSS feed of the historical archive of Features from the Centers for Disease Control and Prevention (CDC) home page.</description>
+	<pubdate>2008-10-27T14:58:00-04:00</pubdate>
+	<image>
+		<title>CDC Features Series</title>
+		<subtitle></subtitle>
+		<description></description>
+		<contenttype></contenttype>
+		<sourceurl>http://www.cdc.gov/homepage/images/img-cdcLogoHeader.png</sourceurl>
+		<targeturl>http://www.cdc.gov/</targeturl>
+		<width>159</width>
+		<height>92</height>
+		<size>0</size>
+		<duration>0</duration>
+	</image>
+	<language>en-US</language>
+	<categories>Health</categories>
+	<categories>public health</categories>
+	<pagenumber>1</pagenumber>
+	<pagesize>50</pagesize>
+	<count>1</count>
+	<entries>
+		<title>School Vaccines</title>
+		<description>Get Your Child Vaccinated</description>
+		<link>http://www.cdc.gov/features/catchupimmunizations/</link>
+		<downloadlink>http://www2c.cdc.gov/podcasts/download.asp?af=h&amp;amp;f=8633565</downloadlink>
+		<pubdate>2014-08-11T15:10:00-04:00</pubdate>
+		<language>en-US</language>
+		<enclosureurl>http://www.cdc.gov/features/catchupimmunizations/catchupimmunizations_456px.jpg</enclosureurl>
+		<categories>Diseases &amp; Conditions</categories>
+	</entries>
+	

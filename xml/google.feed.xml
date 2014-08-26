@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<responseData>
+		<feed>
+			<feedUrl>http://www2c.cdc.gov/podcasts/createrss.asp?c=134</feedUrl>
+			<title>CDC Emergency Preparedness and You</title>
+			<link>http://www2c.cdc.gov/podcasts/</link>
+			<author></author>
+			<description>These CDC podcasts are intended to increase the nation's ability to prepare for and respond to public health emergencies.</description>
+			<type>rss20</type>
+			<entries>
+				<title>Back-to-School Preparedness</title>
+				<link>http://www2c.cdc.gov/podcasts/download.asp?af=h&amp;f=8633454</link>
+				<author></author>
+				<publishedDate>Thu, 31 Jul 2014 12:15:00 -0700</publishedDate>
+				<contentSnippet>CDC provides direction, support, and coordination to help the public be prepared. This podcast discusses how parents and ...</contentSnippet>
+				<content>CDC provides direction, support, and coordination to help the public be prepared. This podcast discusses how parents and students can be prepared at school.</content>
+				<categories>Public Health Preparedness</categories>
+				<categories>Emergency Preparedness and Response</categories>
+			</entries>
+			<entries>
+				<title>Snowpocalypse</title>
+				<link>http://www2c.cdc.gov/podcasts/download.asp?af=h&amp;f=8632808</link>
+				<author></author>
+				<publishedDate>Mon, 23 Jun 2014 10:02:00 -0700</publishedDate>
+				<contentSnippet>In this podcast, CDC asks its staff about their experiences during the January 2014 Snowpocalypse and if they were prepared.</contentSnippet>
+				<content>In this podcast, CDC asks its staff about their experiences during the January 2014 Snowpocalypse and if they were prepared.</content>
+				<categories>Public Health Preparedness</categories>
+				<categories>Emergency Preparedness and Response</categories>
+			</entries>
+			<entries>
+				<title>Boots on the Ground: Maricopa County</title>
+				<link>http://www2c.cdc.gov/podcasts/download.asp?af=h&amp;f=8631957</link>
+				<author></author>
+				<publishedDate>Wed, 09 Apr 2014 13:30:00 -0700</publishedDate>
+				<contentSnippet>In this podcast, we talk to CDC career epidemiology field officer Rebecca Sunenshine about her response efforts to a suspected ...</contentSnippet>
+				<content>In this podcast, we talk to CDC career epidemiology field officer Rebecca Sunenshine about her response efforts to a suspected tuberculosis case aboard a US Airways flight and the development of an airport emergency response plan.</content>
+				<categories>Public Health Preparedness</categories>
+				<categories>Emergency Preparedness and Response</categories>
+			</entries>
+		</feed>
+	</responseData>
+	<responseDetails />
+	<responseStatus>200</responseStatus>
+	

@@ -1,0 +1,139 @@
+<html>
+<head>
+	<title></title>
+
+	<style>
+	/* some minimal styling to show targeting */
+		.cdcfeed .title a { color:black;}
+		.cdcfeed .date { color:orange;}
+		.cdcfeed .image { padding:3px; border:1px solid silver; display: inline-block;}
+
+		.cdc-widget, .cdcwidget { width:200px; float:left;}
+		.cdc-widget div { width: 100px; float:left;}
+		.cdc-widget .images img {
+			width: 100px;
+		}
+
+		.facebook {
+			background: #ebf2f9;
+			border: 1px solid #e5e5e5;
+			width: 400px;
+			padding: 5px 20px;
+		}
+
+		.facebook .bannah {
+			background: #d1e2f0
+		}
+
+		.sprite-32-facebook {
+			background: url(http://www.cdc.gov/TemplatePackage/3.0/images/ss.png) no-repeat -68px -51px;
+			float: left;
+		}	
+
+		span[class*=sprite-32], i[class*=sprite-32] {
+			height: 33px;
+			min-height: 33px;
+			max-height: 33px;
+			width: 33px;
+			min-width: 33px;
+			max-width: 33px;
+		}
+		span[class*=sprite-] {
+			margin: 0 5px;
+			display: block;
+		}
+	</style>
+</head>
+<body>
+
+	<div id="somediv"></div>
+
+	<code>Need feed parameters:
+		<ul><li>start/end date</li><li>paging</li><li>others?</ul>
+		Other feed types:
+		<ul><li>Flickr</li></ul>
+		Get feed documentation? Some feeds (formatted the same way), return different results, and don't use the same parameters
+	</code>
+
+<hr />
+
+	<div class="cdc-feed" 
+		data-href="http://www2c.cdc.gov/podcasts/feed.asp?feedid=442&maxnumber=54&format=json&callback=?" 
+		data-feedid="200"
+		data-format="jsonp"
+		data-maxcount="5"
+		data-feedtype="twitter"
+		data-showpubdate="false">CDC Twitter Feed</div>
+<hr />
+	<div class="cdc-feed" 
+		data-href="http://www2c.cdc.gov/podcasts/feed.asp?feedid=442&format=json&callback=?" 
+		data-feedid="199"
+		data-format="json"
+		data-maxcount="5"
+		data-feedtype="facebook"
+		data-showpubdate="false">CDC Facebook Feed</div>
+<hr />
+	<div class="cdc-feed" 
+		data-href="http://www2c.cdc.gov/podcasts/feed.asp?feedid=198"
+		data-feedid="198"
+		data-maxcount="1"
+		data-pagesize="4"
+		data-dateformat="dddd, MMMM Do YYYY, h:mm:ss a"
+		data-dateformatlang="en"
+		data-characterlimit="30"
+		data-feedtype="feature">CDC RSS Feed with Images</div>
+	<hr />	
+
+
+<h2>conflicting maxnumber defined in url and config</h2>
+	<div class="cdc-feed"
+		data-href="http://www2c.cdc.gov/podcasts/feed.asp?feedid=442&maxnumber=54&format=json&callback=?" 
+		data-maxcount="2"
+		data-showpubdate="false">CDC RSS Feed</div>
+<hr />
+
+	<h2>using google to pull in RSS. I know, I know...</h2>
+	<div class="cdc-feed" 
+		data-href="http://www2c.cdc.gov/podcasts/createrss.asp?c=134" 
+		data-maxcount="3"
+		data-feedtype="google"
+		data-showpubdate="false">CDC RSS using Google Feeds API</div>
+
+
+<!-- <hr />
+
+	<h2>lots of items</h2>
+	<div class="cdc-feed" 
+		data-href="http://www2c.cdc.gov/podcasts/feed.asp?feedid=198"
+		data-feedid="198"
+		data-maxcount="40"
+		data-characterlimit="20"
+		data-dateformat="MMMM YYYY"
+		data-dateformatlang="en"
+		data-feedtitle="em">CDC RSS Feed</div> -->
+
+<!-- 
+	<div class="cdc-widget"
+		data-href="http://www2c.cdc.gov/podcasts/feed.asp?feedid=198">CDC Features Series Widget</div> -->
+
+
+	<!-- Place this tag after the last widget tag. -->
+	<script type="text/javascript">
+		(function() {
+			var l = document.createElement('script'), s = document.getElementsByTagName('script')[0];
+			l.type = 'text/javascript'; l.async = true; l.src = 'js/cdc.feeds.js';
+			s.parentNode.insertBefore(l, s);
+			//document.getElementsByTagName('script')[document.getElementsByTagName('script').length - 1];
+		})();
+	</script>
+
+<!-- templating -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/2.0.0-alpha.4/handlebars.min.js"></script>
+<!-- WARN: DO NOT USE THESE REFERENCES! -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<!-- Moment.js required for date formatting -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.7.0/moment.min.js"></script>
+
+
+</body>
+</html>

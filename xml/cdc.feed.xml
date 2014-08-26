@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?access-control allow="*"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title><![CDATA[Birth Defects]]></title>
+	<subtitle><![CDATA[About one in every 33 babies is born with a birth defect. Not all birth defects can be prevented.  But a woman can take steps to increase her own chance of having a baby with the best health possible.]]></subtitle>
+	<id>http://www2c.cdc.gov/podcasts/feed.asp?feedid=442&amp;maxnumber=2&amp;format=xml&amp;callback=</id>
+	<link href="http://www2c.cdc.gov/podcasts/feed.asp?feedid=442&amp;maxnumber=2&amp;format=xml&amp;callback=" rel="self" type="application/rss+xml" />
+	<link href="http://www.cdc.gov/ncbddd/birthdefects/index.html" rel="alternate" type="text/html" />
+	<updated>2014-08-17T19:52:10Z</updated>
+	<logo></logo>
+	<author>
+		<name>sog3@cdc.gov</name>
+	</author>
+	<category term="Birth Defects" />
+	<entry>
+		<title><![CDATA[Good Medicine Can Be Bad for Baby (short version)]]></title>
+		<link href="http://www2c.cdc.gov/podcasts/download.asp?af=h&amp;f=8621564" />
+		<id>http://www2c.cdc.gov/podcasts/player.asp?f=4992117</id>
+		<updated>2011-01-14T00:00:00Z</updated>
+		<summary><![CDATA[Some medicines that are used to treat a woman’s medical conditions can have adverse effects on her unborn child. In this podcast Dr. Cheryl Broussard discusses the potential link between birth defects and women taking medications during pregnancy. Created: 1/14/2011 by MMWR. Date Released: 1/14/2011. Series Name: A Cup of Health with CDC.
+
+]]></summary>
+		<category term="Birth Defects" />
+	</entry>
+	<entry>
+		<title><![CDATA[Good Medicine Can Be Bad for Baby (long version)]]></title>
+		<link href="http://www2c.cdc.gov/podcasts/download.asp?af=h&amp;f=8621562" />
+		<id>http://www2c.cdc.gov/podcasts/player.asp?f=4992118</id>
+		<updated>2011-01-14T00:00:00Z</updated>
+		<summary><![CDATA[Some medicines that are used to treat a woman’s medical conditions can have adverse effects on her unborn child. In this podcast Dr. Cheryl Broussard discusses the potential link between birth defects and women taking medications during pregnancy. Created: 1/14/2011 by MMWR. Date Released: 1/14/2011. Series Name: A Cup of Health with CDC.
+
+]]></summary>
+		<category term="Birth Defects" />
+	</entry>
+</feed>

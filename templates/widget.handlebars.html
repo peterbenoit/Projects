@@ -1,0 +1,25 @@
+<script>
+$('.cdc-widget a').on('click', function(t) {
+	$('.cdc-widget > div').hide();
+	$(t.target.hash).show();
+	return false;
+});
+</script>
+
+<h1>Simple Widget</h1>
+<div class="cdc-widget">
+	<a href="#one">Tab 1</a><a href="#two">Tab 2</a>
+	<div id="one">
+		<ul>{{#statuses}}<li>{{enhance text}}</li>{{/statuses}}</ul>
+	</div>
+	<div id="two">
+		{{#range 0 1 statuses}}
+			{{#user}}
+				<div style="background-color: {{profile_background_color}}; height:100%">
+					<span>Name:<b>{{name}}</b></span><br /><span>Location: <i>{{location}}</i></span><br /><span>Followers: {{followers_count}}</span><br />
+					<p>{{description}}</p>
+				</div>
+			{{/user}}
+		{{/range}}
+	</div>
+</div>

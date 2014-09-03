@@ -1,17 +1,41 @@
 <html>
 <head>
 	<title></title>
-
+	<link rel="stylesheet" type="text/css" href="http://www.cdc.gov/TemplatePackage/3.0/css/app.css" />
 	<style>
 	/* some minimal styling to show targeting */
 		.cdcfeed .title a { color:black;}
 		.cdcfeed .date { color:orange;}
 		.cdcfeed .image { padding:3px; border:1px solid silver; display: inline-block;}
 
-		.cdc-widget, .cdcwidget { width:200px; float:left;}
+/*		.cdc-widget, .cdcwidget { width:200px; float:left;}
 		.cdc-widget div { width: 100px; float:left;}
 		.cdc-widget .images img {
 			width: 100px;
+		}*/
+		.cdc-widget {
+			position:relative;
+		}
+		.cdc-widget > a {
+			display: inline-block;
+			outline:1px solid;
+			width: 70px;
+			padding-left: 30px;
+		}
+		.cdc-widget > div {
+			width:200px;
+			height:300px;
+			outline:1px solid;
+			display:none;
+			overflow-y:scroll;
+		}
+
+		.cdc-widget #one {
+			display:block;
+		}
+
+		.cdc-widget #one ul {
+			margin-left: -15px;
 		}
 
 		.facebook {
@@ -56,7 +80,14 @@
 	</code>
 
 <hr />
-
+	<div class="cdc-feed" 
+		data-href="http://www2c.cdc.gov/podcasts/feed.asp?feedid=442&maxnumber=54&format=json&callback=?" 
+		data-feedid="200"
+		data-format="jsonp"
+		data-maxcount="5"
+		data-feedtype="widget"
+		data-showpubdate="false">CDC Widget</div>
+<hr />
 	<div class="cdc-feed" 
 		data-href="http://www2c.cdc.gov/podcasts/feed.asp?feedid=442&maxnumber=54&format=json&callback=?" 
 		data-feedid="200"

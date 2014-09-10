@@ -34,6 +34,10 @@
 			display:block;
 		}
 
+		.cdc-widget #one div {
+			float: left;
+		}
+		
 		.cdc-widget #one ul {
 			margin-left: -15px;
 		}
@@ -78,15 +82,22 @@
 		<ul><li>Flickr</li></ul>
 		Get feed documentation? Some feeds (formatted the same way), return different results, and don't use the same parameters
 	</code>
-
 <hr />
 	<div class="cdc-feed" 
+		data-href="http://www2c.cdc.gov/podcasts/feed.asp" 
+		data-feedid="518"
+		data-format="json"
+		data-maxcount="5"
+		data-feedtype="winterweather"
+		data-showpubdate="false">CDC Winter Weather Widget</div>
+<hr />
+	<!-- <div class="cdc-feed" 
 		data-href="http://www2c.cdc.gov/podcasts/feed.asp?feedid=442&maxnumber=54&format=json&callback=?" 
 		data-feedid="200"
 		data-format="jsonp"
 		data-maxcount="5"
 		data-feedtype="widget"
-		data-showpubdate="false">CDC Widget</div>
+		data-showpubdate="false">CDC Widget</div> -->
 <hr />
 	<div class="cdc-feed" 
 		data-href="http://www2c.cdc.gov/podcasts/feed.asp?feedid=442&maxnumber=54&format=json&callback=?" 
@@ -157,6 +168,9 @@
 			//document.getElementsByTagName('script')[document.getElementsByTagName('script').length - 1];
 		})();
 	</script>
+
+<!-- requirejs -->
+
 
 <!-- templating -->
 <script src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/2.0.0-alpha.4/handlebars.min.js"></script>

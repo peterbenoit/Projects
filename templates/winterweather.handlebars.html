@@ -1,0 +1,25 @@
+<script>
+$('.cdc-widget a').on('click', function(t) {
+	$('.cdc-widget > div').hide();
+	$(t.target.hash).show();
+	return false;
+});
+</script>
+
+<div class="cdc-widget">
+	<h1>{{description}}</h1>
+	<a href="#one">PHOTOS</a><a href="#two">NEWS</a>
+	<div id="one">
+		{{#entries}}
+			<div>
+				<h3>{{title}}</h3>
+				<p>{{description}}</p>
+				<span>Published: {{dateFormat pubdate}}</span>
+			</div>
+		{{/entries}}
+	</div>
+	<div id="two">
+		<ul>{{#entries}}<li><b>{{title}}</b><br/>{{description}}<br/>{{pubdate}}</li>{{/entries}}</ul>
+	</div>
+	<div><a href="#">Share</a> <a href="#">Info<?a></div>
+</div>

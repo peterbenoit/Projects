@@ -135,6 +135,7 @@ console.log(url);
 			url: url,
 			dataType: config.format,
 			success: function (data) {
+console.log(data);				
 				// google
 				if(data.responseData) {
 					template = Handlebars.compile(templatefile, data.responseData.feed);

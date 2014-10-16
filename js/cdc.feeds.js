@@ -37,8 +37,6 @@ $$(function() {
 			hash = /#(\S*)/gim,
 			at = /@(\S*)/gim;		// TODO: remove ends in :
 
-console.log(url);
-		
 		//Handlebars helper to set anchors based off text
 		Handlebars.registerHelper('enhance', function(text) {
 			text = text.replace(protocol, '<a href="$1" target="' + config.target + '">$1</a>');
@@ -135,7 +133,6 @@ console.log(url);
 			url: url,
 			dataType: config.format,
 			success: function (data) {
-console.log(data);				
 				// google
 				if(data.responseData) {
 					template = Handlebars.compile(templatefile, data.responseData.feed);

@@ -1,0 +1,73 @@
+{
+	"name": "TemplatePackage",
+	"majorVersion": "3",
+	"minorVersion": "1",
+	"buildVersion": "2",
+	"releaseCandidate": "1",
+	"fileName": "CDC_TemplatePackage_v",
+	"devDependencies": {
+		"grunt": "~0.4.3",
+		"grunt-contrib-jshint": "~0.10.0",
+		"grunt-contrib-less": "~0.11.4",
+		"grunt-contrib-qunit": "^0.5.1",
+		"grunt-contrib-uglify ": "~0.5.1",
+		"grunt-express-server": "^0.4.17",
+		"grunt-contrib-concat": "~0.5.0",
+		"grunt-contrib-copy": "~0.5.0",
+		"grunt-contrib-clean": "~0.6.0",
+		"grunt-contrib-watch": "~0.6.1",
+		"grunt-contrib-compress": "~0.10.0",
+		"grunt-text-replace": "~0.3.12",
+		"grunt-contrib-imagemin": "~0.7.1",
+		"grunt-newer": "^0.7.0",
+		"grunt-docco": "~0.3.3",
+		"grunt-styledocco": "~0.1.4",
+		"grunt-sync": "~0.0.8",
+		"matchdep": "~0.3.0",
+		"grunt-express": "~1.2.1",
+		"grunt-open": "~0.2.3",
+		"grunt-newer-explicit": "^0.9.0",
+		"jshint-stylish": "~0.4.0"
+	},
+	"readmeFilename": "README.md",
+	"description": "CDC.gov RD Template Package",
+	"installation": "npm install",
+	"main": "Gruntfile.js",
+	"urls": {
+		"local": "http://nchm-dvss1.cdc.gov:9010",
+		"TemplatePackage": "/TemplatePackage/3.0/modules/",
+		"qunit": "tests/qunit/"
+	},
+	"directories": {
+		"src": "C:/TemplatePackage/3.0/",
+		"dest": "C:/build_output/3.0/",
+		"qunit": "C:/TemplatePackage/3.0/modules/tests/qunit/",
+		"css": "css",
+		"fonts": "fonts",
+		"images": "images",
+		"includes": "includes",
+		"local": "local",
+		"modules": "modules",
+		"js": "js",
+		"json": "js/json",
+		"less": "less",
+		"releases": "C:/build_output/releases/",
+		"prod": "C:/build_output/prod/",
+		"dev": "C:/build_output/dev/",
+		"errors": "C:/build_output/errors/",
+		"docs": "C:/build_output/docs/",
+		"devenv": "//APD-V-NCHM-VSS1/idk1/TemplatePackage/3.0"
+	},
+	"scripts": {
+		"test": "npm run test-pre",
+		"test-pre": "grunt jshint"
+	},
+	"repository": "",
+	"keywords": [
+		"Responsive",
+		"Web",
+		"Design"
+	],
+	"author": "OADC",
+	"license": "BSD"
+}

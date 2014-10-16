@@ -1,0 +1,16 @@
+{
+  "name": "watch",
+  "version": "0.0.1",
+  "description": "Monitors a local folder for changes, and immediately copies to a remote destination",
+  "main": "watch.js",
+  "dependencies": {
+    "fs-extra": "^0.12.0",
+    "node-watch": "^0.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node watch.js"
+  },
+  "author": "OADC",
+  "license": ""
+}
